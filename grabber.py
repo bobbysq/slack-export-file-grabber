@@ -1,5 +1,5 @@
 import requests
-from http import cookiejar
+# from http import cookiejar
 import json
 import os
 import re
